@@ -1,0 +1,53 @@
+ecotox_group;ecotox_group_convert
+Algae, Moss, Fungi;algae
+Algae, Moss, Fungi,Standard Test Species;algae
+Amphibians;amphibians
+Amphibians,Standard Test Species;amphibians
+Amphibians,U.S. Exotic/Nuisance Species,Standard Test Species;amphibians
+Amphibians,U.S. Threatened and Endangered Species;amphibians
+Birds;birds
+Birds,Standard Test Species;birds
+Birds,U.S. Exotic/Nuisance Species;birds
+Birds,U.S. Threatened and Endangered Species;birds
+Crustaceans;crustaceans
+Crustaceans,Standard Test Species;crustaceans
+Crustaceans,Standard Test Species,U.S. Exotic/Nuisance Species;crustaceans
+Crustaceans,U.S. Exotic/Nuisance Species;crustaceans
+Crustaceans,U.S. Threatened and Endangered Species;crustaceans
+Fish;fish
+Fish,Standard Test Species;fish
+Fish,Standard Test Species,U.S. Exotic/Nuisance Species;fish
+Fish,Standard Test Species,U.S. Threatened and Endangered Species;fish
+Fish,U.S. Exotic/Nuisance Species;fish
+Fish,U.S. Exotic/Nuisance Species,Standard Test Species;fish
+Fish,U.S. Threatened and Endangered Species;fish
+Fish,U.S. Threatened and Endangered Species,Standard Test Species;fish
+Flowers, Trees, Shrubs, Ferns;flowers, trees, shrubs, ferns
+Flowers, Trees, Shrubs, Ferns,Standard Test Species;flowers, trees, shrubs, ferns
+Flowers, Trees, Shrubs, Ferns,Standard Test Species,U.S. Exotic/Nuisance Species;flowers, trees, shrubs, ferns
+Flowers, Trees, Shrubs, Ferns,U.S. Exotic/Nuisance Species;flowers, trees, shrubs, ferns
+Insects/Spiders;insects
+Insects/Spiders,Standard Test Species;insects
+Insects/Spiders,U.S. Exotic/Nuisance Species;insects
+Invertebrates;aquatic invertebrates
+Invertebrates,Standard Test Species;aquatic invertebrates
+Mammals;mammals
+Mammals,Standard Test Species;mammals
+Mammals,U.S. Exotic/Nuisance Species;mammals
+Miscellaneous;other
+Miscellaneous,U.S. Exotic/Nuisance Species;other
+Molluscs;molluscs
+Molluscs,Standard Test Species;molluscs
+Molluscs,U.S. Exotic/Nuisance Species;molluscs
+Molluscs,U.S. Threatened and Endangered Species;molluscs
+Reptiles;reptiles
+Reptiles,U.S. Threatened and Endangered Species;reptiles
+Standard Test Species,Crustaceans;crustaceans
+Standard Test Species,Flowers, Trees, Shrubs, Ferns;flowers, trees, shrubs, ferns
+U.S. Exotic/Nuisance Species,Flowers, Trees, Shrubs, Ferns;flowers, trees, shrubs, ferns
+U.S. Threatened and Endangered Species,Amphibians;amphibians
+U.S. Threatened and Endangered Species,Fish;fish
+U.S. Threatened and Endangered Species,Molluscs;molluscs
+Worms;worms
+Worms,Standard Test Species;worms
+;other

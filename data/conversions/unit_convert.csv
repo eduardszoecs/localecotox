@@ -1,0 +1,421 @@
+no_tests;unit;convert;multiplier;unit_conv
+200717;ug/L;yes;1;ug/L
+51993;mg/L;yes;1000;ug/L
+28121;ppm;yes;1000;ug/L
+9002;uM;yes;1;uM
+7957;ppb;yes;1;ug/L
+6800;AI ug/L;yes;1;ug/L
+4517;ng/L;yes;0.001;ug/L
+3975;AI mg/L;yes;1000;ug/L
+3425;mg/kg;no;1;mg/kg
+3094;M;yes;1000000;uM
+2337;mM;yes;1000;uM
+2322;umol/L;yes;1;uM
+2240;%;no;1;%
+2004;ug/ml;yes;1000;ug/L
+1924;nM;yes;0.001;uM
+1839;ul/L;no;1;ul/L
+1353;ug/g;no;1;ug/g
+925;mg/kg bdwt;no;1;mg/kg bdwt
+892;AI kg/ha;no;1;AI kg/ha
+861;ml/L;no;1;ml/L
+829;g/L;yes;1000000;ug/L
+790;ai ppm;yes;1000;ug/L
+762;nmol/L;yes;0.001;uM
+731;% v/v;no;1;% v/v
+721;mmol/L;yes;1000;uM
+712;kg/ha;no;1;kg/ha
+679;ug/kg;no;1;ug/kg
+615;mg/dm3;yes;1000;ug/L
+583;AI lb/acre;no;1;AI lb/acre
+576;uCi/L;no;1;uCi/L
+565;ae mg/L;yes;1000;ug/L
+487;AI g/ha;no;1;AI g/ha
+421;ug/g bdwt;no;1;ug/g bdwt
+409;AI ng/L;yes;0.001;ug/L
+375;ng/ml;yes;1;ug/L
+366;AI ug/ml;yes;1000;ug/L
+359;mol/L;yes;1000000;uM
+359;ug;no;1;ug
+335;mg/kg fd;no;1;mg/kg fd
+329;ug/g diet;no;1;ug/g diet
+285;AI ppb;yes;1;ug/L
+263;ug/kg bdwt;no;1;ug/kg bdwt
+255;lb/acre;no;1;lb/acre
+253;mg/ml;yes;1000000;ug/L
+253;ng/g;no;1;ng/g
+241;ug/g food;no;1;ug/g food
+240;dpm/ml;no;1;dpm/ml
+224;mg;no;1;mg
+207;ug/g dry wt;no;1;ug/g dry wt
+200;kBq/L;no;1;kBq/L
+197;ug/dm3;yes;1;ug/L
+193;mg/kg d fd;no;1;mg/kg d fd
+191;mmol/m3;yes;1;uM
+184;ug/g dry fd;no;1;ug/g dry fd
+182;pg/g egg;no;1;pg/g egg
+180;0/00;no;1;0/00
+179;g/ml;no;1;g/ml
+174;mmol/kg;no;1;mmol/kg
+173;ppmw;no;1;ppmw
+159;mg/g;no;1;mg/g
+156;umol/g;no;1;umol/g
+151;pg/g wet wt;no;1;pg/g wet wt
+148;uCi;no;1;uCi
+143;ug/org;no;1;ug/org
+140;mg/kg bdwt/d;no;1;mg/kg bdwt/d
+134;ng;no;1;ng
+122;AI ul/L;no;1;AI ul/L
+122;L/ha;no;1;L/ha
+121;mg/g bdwt;no;1;mg/g bdwt
+118;umol/kg;no;1;umol/kg
+117;pg/g;no;1;pg/g
+115;ml;no;1;ml
+108;g/m3;yes;1;ug/L
+105;ng/g diet;no;1;ng/g diet
+103;mg/kg diet;no;1;mg/kg diet
+100;ul;no;1;ul
+97;mmol;no;1;mmol
+93;mg/kg org;no;1;mg/kg org
+90;% WSF;no;1;% WSF
+89;mBq/ml;no;1;mBq/ml
+89;ug/100ml;yes;10;ug/L
+89;ug/kg fd;no;1;ug/kg fd
+84;g;no;1;g
+78;ppt;yes;0.001;ug/L
+76;AI oz/ac;no;1;AI oz/ac
+75;nmol/g;no;1;nmol/g
+74;mg/g fd;no;1;mg/g fd
+73;AI %;no;1;AI %
+70;cpm/ml;no;1;cpm/ml
+68;ae kg/ha;no;1;ae kg/ha
+68;Bq/ml;no;1;Bq/ml
+68;g/kg;no;1;g/kg
+68;ug/mg food;no;1;ug/mg food
+67;ng/g bdwt;no;1;ng/g bdwt
+66;g/ha;no;1;g/ha
+64;mg/fish;no;1;mg/fish
+64;ul/ml;no;1;ul/ml
+63;Bq/L;no;1;Bq/L
+63;ug/g wet wt;no;1;ug/g wet wt
+62;% sat;no;1;% sat
+61;ng/org;no;1;ng/org
+61;pM;no;1;pM
+59;ng/g egg;no;1;ng/g egg
+58;mg/100g bw;no;1;mg/100g bw
+54;mg/kg dry wt;no;1;mg/kg dry wt
+54;ml/kg;no;1;ml/kg
+53;ng/kg fd;no;1;ng/kg fd
+52;nCi/L;no;1;nCi/L
+50;mg/100g;no;1;mg/100g
+50;pg/ml;yes;0.001;ug/L
+49;umol;no;1;umol
+48;ppm dw fd;no;1;ppm dw fd
+48;ug/2 org/d;no;1;ug/2 org/d
+46;mCi/mmol;no;1;mCi/mmol
+45;nmol/ml;yes;1;uM
+44;mg/kg/d;no;1;mg/kg/d
+44;mg/L media;yes;1000;ug/L
+42;ae ug/L;yes;1;ug/L
+42;ug/g bdwt/d;no;1;ug/g bdwt/d
+41;;no;1;
+41;N;no;1;N
+41;pg/ul;no;1;pg/ul
+41;ug/mg;no;1;ug/mg
+40;ug/g org/d;no;1;ug/g org/d
+40;uM/L;yes;1;uM
+39;gal/acre;no;1;gal/acre
+38;ml/25 ml;no;1;ml/25 ml
+35;nmol/g food;no;1;nmol/g food
+34;ug/g lipid diet;no;1;ug/g lipid diet
+33;g/kg feed;no;1;g/kg feed
+33;kmol/m3;yes;1000000;uM
+33;ng/g wet wt;no;1;ng/g wet wt
+33;ug/cell;no;1;ug/cell
+32;nmol;no;1;nmol
+32;umol/g wet wt;no;1;umol/g wet wt
+31;mg/kg org/d;no;1;mg/kg org/d
+30;ug/kg/d;no;1;ug/kg/d
+30;% w/v;no;1;% w/v
+28;g/kg bdwt;no;1;g/kg bdwt
+28;kg;no;1;kg
+28;mol/dm3;yes;1000000;uM
+28;NR;no;1;NR
+28;pg/dm3;yes;0.000001;ug/L
+28;ppm-hour;no;1;ppm-hour
+28;ug/cm3;yes;1000;ug/L
+28;ug/g org;no;1;ug/g org
+28;ug/kg org;no;1;ug/kg org
+27;% d wght;no;1;% d wght
+27;kBq/ml;no;1;kBq/ml
+27;mg/200 ml;yes;5000;ug/L
+27;ng/mg;no;1;ng/mg
+26;fg/org;no;1;fg/org
+26;ug/cm2;no;1;ug/cm2
+25;cpm/L;no;1;cpm/L
+25;ng/org/d;no;1;ng/org/d
+25;pg/L;yes;0.000001;ug/L
+25;ug/g/d;no;1;ug/g/d
+24;mM/L;yes;1000;uM
+24;mol/g;no;1;mol/g
+24;pCi/g;no;1;pCi/g
+23;g/cc;no;1;g/cc
+23;mg/g/d;no;1;mg/g/d
+23;ml/g food;no;1;ml/g food
+23;ng/egg;no;1;ng/egg
+23;uCi/ml;no;1;uCi/ml
+23;ug/h/100 g;no;1;ug/h/100 g
+22;mg/kg/wk;no;1;mg/kg/wk
+22;ng/0.5 ml;no;1;ng/0.5 ml
+22;ug/egg;no;1;ug/egg
+20;ng/d;no;1;ng/d
+20;ug-atoms/L;no;1;ug-atoms/L
+19;meq/L;no;1;meq/L
+19;ng/cm2;no;1;ng/cm2
+19;ppmv;no;1;ppmv
+18;ae ppb;yes;1;ug/L
+18;AI mg/kg;no;1;AI mg/kg
+18;ng/g dry wt;no;1;ng/g dry wt
+18;pmol/g bdwt;no;1;pmol/g bdwt
+18;pmol/L;yes;0.000001;uM
+18;ug/d;no;1;ug/d
+18;% vol;no;1;% vol
+17;AI ug/kg;no;1;AI ug/kg
+17;ml/ha;no;1;ml/ha
+17;nmol/g lipid;no;1;nmol/g lipid
+17;nmol/kg;no;1;nmol/kg
+17;ug/disk;no;1;ug/disk
+16;AI ml/L;no;1;AI ml/L
+16;g/acre;no;1;g/acre
+16;mmol/100 g;no;1;mmol/100 g
+16;mol;no;1;mol
+16;pCi/ml;no;1;pCi/ml
+15;pg/org;no;1;pg/org
+14;dpm;no;1;dpm
+14;nmol/kg bdwt;no;1;nmol/kg bdwt
+14;ug/3.5L;no;1;ug/3.5L
+14;ul/g bdwt;no;1;ul/g bdwt
+13;cpm;no;1;cpm
+13;pg/cell;no;1;pg/cell
+12;g/dm3;yes;1000000;ug/L
+12;mg/kg dw org/d;no;1;mg/kg dw org/d
+12;mg/org/wk;no;1;mg/org/wk
+12;ng eq/ml;no;1;ng eq/ml
+12;pmol/cell;no;1;pmol/cell
+12;ueq/L;no;1;ueq/L
+12;ug/g/wk;no;1;ug/g/wk
+12;ug/org dry wt;no;1;ug/org dry wt
+12;ul/g;no;1;ul/g
+11;g/ft2;no;1;g/ft2
+11;mg/eu;no;1;mg/eu
+11;ml/eu;no;1;ml/eu
+11;ml/kg bdwt;no;1;ml/kg bdwt
+11;ml/m2;no;1;ml/m2
+11;mol/m3;yes;1000;uM
+11;ppm/organi;no;1;ppm/organi
+11;ug/org/d;no;1;ug/org/d
+11;umol/mol C;no;1;umol/mol C
+10;AI mg/m2;no;1;AI mg/m2
+10;AI ml/ha;no;1;AI ml/ha
+10;Bq;no;1;Bq
+10;IU/kg;no;1;IU/kg
+10;L;no;1;L
+10;mmol/g dry wt;no;1;mmol/g dry wt
+10;molal;no;1;molal
+10;umol/g org;no;1;umol/g org
+9;AI g/m2;no;1;AI g/m2
+9;ai lb/ha;no;1;ai lb/ha
+9;L/m2;no;1;L/m2
+9;mg/h;no;1;mg/h
+9;mg/kg/fish;no;1;mg/kg/fish
+9;mg/kg wt;no;1;mg/kg wt
+9;oz/ac;no;1;oz/ac
+9;pmol;no;1;pmol
+9;ug/fish;no;1;ug/fish
+8;AI mg/eu;no;1;AI mg/eu
+8;AI mM;no;1;AI mM
+8;mg/100g bw/d;no;1;mg/100g bw/d
+8;mg/org;no;1;mg/org
+8;ml/100 g bdwt;no;1;ml/100 g bdwt
+8;ng/cm;no;1;ng/cm
+8;ptm;no;1;ptm
+8;uCI/g org;no;1;uCI/g org
+8;ug/cm2/d;no;1;ug/cm2/d
+8;ug/g bdwt/wk;no;1;ug/g bdwt/wk
+8;ug/g org/wk;no;1;ug/g org/wk
+8;ug/kg bdwt/d;no;1;ug/kg bdwt/d
+8;ug/kg LD;no;1;ug/kg LD
+8;umol/dm3;no;1;umol/dm3
+8;umol/g LD;no;1;umol/g LD
+8;umol/kg bdwt;no;1;umol/kg bdwt
+7;AI mg/kg bdwt;no;1;AI mg/kg bdwt
+7;g/kg fd;no;1;g/kg fd
+7;g/m2;no;1;g/m2
+7;IU/kg bdwt;no;1;IU/kg bdwt
+7;mCi mg;no;1;mCi mg
+7;mg/100g/d;no;1;mg/100g/d
+7;mg/cm2/d;no;1;mg/cm2/d
+7;ng/ml blood/d;no;1;ng/ml blood/d
+7;nmol/g wet wt;no;1;nmol/g wet wt
+7;uCi/mg;no;1;uCi/mg
+7;umol/cm2;no;1;umol/cm2
+6;Ci/L;no;1;Ci/L
+6;% g;no;1;% g
+6;granules/kg bwt;no;1;granules/kg bwt
+6;kBq;no;1;kBq
+6;kg/d;no;1;kg/d
+6;mCi;no;1;mCi
+6;meq;no;1;meq
+6;% mg;no;1;% mg
+6;ml/10 L;no;1;ml/10 L
+6;mmol/kg/d;no;1;mmol/kg/d
+6;nM/L;no;1;nM/L
+6;nmol/org;no;1;nmol/org
+6;% of bdwt;no;1;% of bdwt
+6;pCi/L;no;1;pCi/L
+6;PIg/L;no;1;PIg/L
+6;pmol/ml;no;1;pmol/ml
+6;uCi/kg;no;1;uCi/kg
+6;ug/10 g bdwt;no;1;ug/10 g bdwt
+6;ug/eu/d;no;1;ug/eu/d
+6;ug/mm3;no;1;ug/mm3
+6;ug/ul;no;1;ug/ul
+6;% w/w;no;1;% w/w
+5;ae ppm;no;1;ae ppm
+5;AI oz/acre;no;1;AI oz/acre
+5;Bq/g;no;1;Bq/g
+5;IU/100 g bdwt;no;1;IU/100 g bdwt
+5;IU/g diet;no;1;IU/g diet
+5;kg/L;no;1;kg/L
+5;mg/kg/L;no;1;mg/kg/L
+5;mg/L/d;no;1;mg/L/d
+5;mmol/g;no;1;mmol/g
+5;mS/cm;no;1;mS/cm
+5;nmol/g dry wt;no;1;nmol/g dry wt
+5;oz/acre;no;1;oz/acre
+5;pmol/g egg;no;1;pmol/g egg
+5;ug/L/d;no;1;ug/L/d
+5;ul/100 g bdwt;no;1;ul/100 g bdwt
+5;ul/cm2;no;1;ul/cm2
+4;AI ng/mL;no;1;AI ng/mL
+4;Ci/mol;no;1;Ci/mol
+4;dpm/EU;no;1;dpm/EU
+4;lit;no;1;lit
+4;L/mg;no;1;L/mg
+4;mg/300 g;no;1;mg/300 g
+4;ml/d;no;1;ml/d
+4;mol/org;no;1;mol/org
+4;ng/g/d;no;1;ng/g/d
+4;ng/g org;no;1;ng/g org
+4;nmol/g TI;no;1;nmol/g TI
+4;pg/g diet;no;1;pg/g diet
+4;ppm food;no;1;ppm food
+4;PSU;no;1;PSU
+4;ug/100g org/d;no;1;ug/100g org/d
+4;ug/250 g bdwt;no;1;ug/250 g bdwt
+4;U/kg dry diet;no;1;U/kg dry diet
+4;ul/egg;no;1;ul/egg
+4;umol/org;no;1;umol/org
+3;AI ng;no;1;AI ng
+3;cm3/4L;no;1;cm3/4L
+3;mg/70g;no;1;mg/70g
+3;mg/d;no;1;mg/d
+3;mg/dose;no;1;mg/dose
+3;mg/org/d;no;1;mg/org/d
+3;ML;no;1;ML
+3;mM/g;no;1;mM/g
+3;mOsm;no;1;mOsm
+3;pg/g TI;no;1;pg/g TI
+3;ug/300 g bdwt;no;1;ug/300 g bdwt
+3;um;no;1;um
+3;umol/100 g;no;1;umol/100 g
+3;umol/g dry wt f;no;1;umol/g dry wt f
+3;units/ml;no;1;units/ml
+2;AI g/kg;no;1;AI g/kg
+2;amol/cell;no;1;amol/cell
+2;eu;no;1;eu
+2;g/eu;no;1;g/eu
+2;g/fish;no;1;g/fish
+2;g/ug;no;1;g/ug
+2;lb/cwt sd;no;1;lb/cwt sd
+2;mCi/kg;no;1;mCi/kg
+2;mg/100ul;no;1;mg/100ul
+2;mg/g bw/d;no;1;mg/g bw/d
+2;mg/ha;no;1;mg/ha
+2;mg/L/h;no;1;mg/L/h
+2;ml/10 L/100 m2;no;1;ml/10 L/100 m2
+2;ml/body wt;no;1;ml/body wt
+2;mm3/L;no;1;mm3/L
+2;mmol/m2;no;1;mmol/m2
+2;ng/eu;no;1;ng/eu
+2;ng/fish;no;1;ng/fish
+2;ng/kg;no;1;ng/kg
+2;ng/min;no;1;ng/min
+2;nmol/g bw;no;1;nmol/g bw
+2;uCi/g;no;1;uCi/g
+2;ug/100 g bdwt;no;1;ug/100 g bdwt
+2;ug/100g/d;no;1;ug/100g/d
+2;ug/10 L;no;1;ug/10 L
+2;ug/50ul;no;1;ug/50ul
+2;ug/L/hr;no;1;ug/L/hr
+2;ug/tank/wk;no;1;ug/tank/wk
+2;ul/eu;no;1;ul/eu
+2;v/v;no;1;v/v
+1;1e-4 M;no;1;1e-4 M
+1;1e-6 M;no;1;1e-6 M
+1;1e-9 M;no;1;1e-9 M
+1;ai g/ac;no;1;ai g/ac
+1;AI l/ha;no;1;AI l/ha
+1;AI mmol/dm3;no;1;AI mmol/dm3
+1;AI ug/g;no;1;AI ug/g
+1;AI uM;no;1;AI uM
+1;Bq/kg;no;1;Bq/kg
+1;Bq/mg;no;1;Bq/mg
+1;cc;no;1;cc
+1;Ci/mmol;no;1;Ci/mmol
+1;cpm/mg;no;1;cpm/mg
+1;dpm/g;no;1;dpm/g
+1;IU;no;1;IU
+1;kBq/dm3;no;1;kBq/dm3
+1;kg/50 m;no;1;kg/50 m
+1;mBq;no;1;mBq
+1;mCi/mg;no;1;mCi/mg
+1;mCi/ml;no;1;mCi/ml
+1;mg/%;no;1;mg/%
+1;mg/100 g food;no;1;mg/100 g food
+1;mg/kg bdwt/wk;no;1;mg/kg bdwt/wk
+1;ml/100g;no;1;ml/100g
+1;ml/25 L;no;1;ml/25 L
+1;ml/g bdwt;no;1;ml/g bdwt
+1;ml/kg/d;no;1;ml/kg/d
+1;ml/m3;no;1;ml/m3
+1;mosmols/l;no;1;mosmols/l
+1;mouse unit/ml;no;1;mouse unit/ml
+1;neq/g;no;1;neq/g
+1;ng/mi/kg bdwt;no;1;ng/mi/kg bdwt
+1;ng/mm/day;no;1;ng/mm/day
+1;nl/cm2;no;1;nl/cm2
+1;nM/g;no;1;nM/g
+1;nmol/kg/mi;no;1;nmol/kg/mi
+1;ppm/L;no;1;ppm/L
+1;tons;no;1;tons
+1;u;no;1;u
+1;uBq;no;1;uBq
+1;uCi/30mg;no;1;uCi/30mg
+1;uCi/3.6mg;no;1;uCi/3.6mg
+1;uCi/nmol;no;1;uCi/nmol
+1;uCi/org;no;1;uCi/org
+1;uCi/ug;no;1;uCi/ug
+1;uCi/ul;no;1;uCi/ul
+1;ueq/g;no;1;ueq/g
+1;ug/0.1 ml/d/org;no;1;ug/0.1 ml/d/org
+1;ug/100g;no;1;ug/100g
+1;ug/d/org;no;1;ug/d/org
+1;u/l;no;1;u/l
+1;uL/100 L;no;1;uL/100 L
+1;ul/100ml;no;1;ul/100ml
+1;ul/20ml;no;1;ul/20ml
+1;ul/kg;no;1;ul/kg
+1;ul/org;no;1;ul/org
+1;uM/kg;no;1;uM/kg
+1;umol/kg/mi;no;1;umol/kg/mi
